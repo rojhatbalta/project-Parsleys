@@ -1,2 +1,10 @@
-.yourorder.css {
+.yourorder-section {
+  position: relative;
+}
+
+.yourorder-header {
+  width: 751;
+  height: 159;
+  background-color: #7a3145;
+  letter-spacing: 0.04em;
 }
