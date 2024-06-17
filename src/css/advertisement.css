@@ -20,6 +20,7 @@
   letter-spacing: -0.015em;
   text-align: left;
   background-color: #FBFBFB;
+  background-image: url(../img/image\ 4.jpg);
     border-radius: 12px 0px 0px 0px;
     width: 808px;
   height: 86px;
@@ -33,5 +34,5 @@
   text-align: left;
   background: #FBFBFB;
   display: flex;
+}
   
-  }
