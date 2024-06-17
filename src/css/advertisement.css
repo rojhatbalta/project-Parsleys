@@ -10,6 +10,7 @@
     gap: 0px;
     opacity: 0px;
     background-color: #FBFBFB;
+    flex-wrap: wrap;
   }
 .advertisement-span {
     font-family: Inter Tight;

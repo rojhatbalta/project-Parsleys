@@ -9,6 +9,8 @@
   gap: 10px;
   opacity: 0px;
   background: #7A3145;
+  justify-content: center;
+  align-items: center;
   }
   .howitworks-blocks {
   width: 650px;
