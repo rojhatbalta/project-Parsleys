@@ -1,4 +1,26 @@
 /* Footer styles */
-
 .footer {
+  background-color: #7a3145;
+}
+.footer-first {
+  display: flex;
+  justify-content: space-between;
+  color: #fbfbfb;
+}
+.logo-footer {
+  padding-left: 50px;
+}
+.menu-contacts-footer {
+  display: flex;
+  align-items: center;
+  gap: 121px;
+}
+.contacts {
+  padding-right: 50px;
+}
+.policy-copy-footer {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 125px;
+  color: #fbfbfb;
 }
