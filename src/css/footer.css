@@ -6,6 +6,7 @@
   display: flex;
   justify-content: space-between;
   color: #fbfbfb;
+  padding-top: 50px;
 }
 .logo-footer {
   padding-left: 50px;
@@ -22,5 +23,14 @@
   display: flex;
   justify-content: space-between;
   padding-top: 125px;
+  padding-bottom: 40px;
   color: #fbfbfb;
+  font-size: 12px;
+  line-height: 20px;
+}
+.policy {
+  padding-left: 50px;
+}
+.copy {
+  padding-right: 50px;
 }
