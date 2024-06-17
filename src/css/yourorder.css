@@ -1,10 +1,74 @@
 .yourorder-section {
   position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 1280px;
+  padding: 100px;
+  background-color: #7a3145;
 }
 
 .yourorder-header {
+  position: relative;
+  font-size: 64px;
+  line-height: 100%;
   width: 751;
-  height: 159;
+  color: #fbfbfb;
   background-color: #7a3145;
   letter-spacing: 0.04em;
+}
+
+.cards-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.form-container {
+  background-color: #fbfbfb;
+  width: calc((100% - 100px) / 2);
+  margin: 25px;
+  padding: 25px;
+  border-radius: 25px;
+}
+
+.form-item-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-paragraph {
+  font-size: 24px;
+  font-weight: 600;
+  margin: 10px;
+}
+
+.span-from-us {
+  color: #7a3145;
+}
+
+.span-the-form {
+  color: #576f35;
+}
+
+.form-item {
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.form-button {
+  background-color: #576f35;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.social-media-container {
+  background-color: #576f35;
+  margin: 25px;
+  padding: 25px;
+  border-radius: 25px;
+}
+
+.social-link-container {
+  display: flex;
+  flex-direction: row;
 }
