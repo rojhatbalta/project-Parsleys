@@ -3,20 +3,40 @@
     height: 759px;
   }
   .howitworks-img {
-  width: Hug (630px)px;
-  height: Hug (759px)px;
+  width: 630px;
+  height: 759px;
   padding: 100px 0px 0px 0px;
   gap: 10px;
   opacity: 0px;
   background: #7A3145;
   justify-content: center;
   align-items: center;
+  border-radius: 30px;
   }
   .howitworks-blocks {
-  width: 650px;
-  height: 759px;
+  width: 450px;
+  height: 499px;
   padding: 100px 100px 160px 100px;
-  gap: 10px;
+  gap: 50px;
   opacity: 0px;
   background-color: #576F35;
   }
+.howitworks-up-text {
+width: 450px;
+height: 96px;
+font-family: "Inter Tight";
+font-size: 32px;
+font-weight: 600;
+line-height: 32px;
+letter-spacing: -0.015em;
+text-align: left;
+  }
+.howitworks-down-text {
+  width: 450px;
+  height: 60px;
+  font-family: "Inter Tight";
+font-size: 16px;
+font-weight: 500;
+line-height: 20px;
+text-align: left;
+}
