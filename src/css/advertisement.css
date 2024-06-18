@@ -32,4 +32,6 @@
   letter-spacing: -0.015em;
   text-align: left;
   background: #FBFBFB;
-  }
+  display: flex;
+}
+  

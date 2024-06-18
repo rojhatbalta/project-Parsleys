@@ -1,6 +1,20 @@
-.reviews-section {
-}
 
 .review-title {
-    
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 64px;
+    color: #141414;
+}
+
+.customers-span {
+    color: #576F35;
+}
+
+#customer-ul {
+    display: flex;
+    flex-direction: row;
+}
+
+.customer-list {
+    width: calc((100%-100px)/3);
 }
