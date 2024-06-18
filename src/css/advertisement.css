@@ -1,28 +1,33 @@
 .advertisement-section {
     width: 1280px;
     height: 440px;
-    gap: 10px;
+  
+    
   }
 .advertisement-div {
     width: 1054px;
     height: 240px;
     left: 13px;
-    gap: 0px;
     opacity: 0px;
     background-color: #FBFBFB;
     flex-wrap: wrap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 100px;
   }
 .advertisement-span {
-    font-family: Inter Tight;
+    font-family: "Inter Tight";
   font-size: 76px;
   font-weight: 600;
   line-height: 80px;
   letter-spacing: -0.015em;
   text-align: left;
-  background-image: url(../img/image\ 4.jpg);
+   color: #FBFBFB;
     border-radius: 12px 0px 0px 0px;
     width: 808px;
   height: 86px;
+  
   }
 .advertisement-text {
     font-family: "Inter Tight";
@@ -31,5 +36,5 @@
   line-height: 80px;
   letter-spacing: -0.015em;
   text-align: left;
-  background: #FBFBFB;
+  background: #FBFBFB; 
   }

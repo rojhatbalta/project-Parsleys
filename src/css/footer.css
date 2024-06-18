@@ -1,3 +1,64 @@
+<<<<<<< HEAD
+=======
 /* Footer styles */
+>>>>>>> 254a4e56a1fea7812dd68e0f7dc4d417671522fd
 
+.footer {
+  background-color: #7a3145;
+}
+.footer-first {
+  display: flex;
+  justify-content: space-between;
+  color: #fbfbfb;
+  padding-top: 50px;
+}
+.logo-footer {
+  padding-left: 50px;
+  padding-top: 15px;
+}
+.greenharvest {
+  padding-bottom: 25px;
+}
+.logo-text {
+  font-size: 10px;
+  line-height: 1.6;
+}
+.menu-contacts-footer {
+  display: flex;
+  align-items: center;
+  gap: 121px;
+}
+.menu {
+  font-size: 24px;
+  line-height: 45px;
+}
 
+.contacts {
+  padding-bottom: 30px;
+  padding-right: 50px;
+  font-size: 12px;
+}
+.adress {
+  padding-top: 15px;
+  line-height: 1.6;
+}
+.policy-copy-footer {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 125px;
+  padding-bottom: 40px;
+  color: #fbfbfb80;
+
+  font-size: 12px;
+  line-height: 20px;
+}
+.policy {
+  padding-left: 50px;
+}
+.copy {
+  padding-right: 50px;
+}
+<<<<<<< HEAD
+=======
+
+>>>>>>> 254a4e56a1fea7812dd68e0f7dc4d417671522fd
