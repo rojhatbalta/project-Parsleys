@@ -1,7 +1,9 @@
 .howitworks-section {
     width: 1280px;
     height: 759px;
-   
+   display: flex;
+   align-items: center;
+   justify-content: center;
   }
   .howitworks-left-blocks {
   width: 630px;
@@ -23,8 +25,8 @@ opacity: 0px;
 background: #1414144D;
   }
 .howitworks-right-blocks {
-  width: 450px;
-  height: 499px;
+  width: 650px;
+  height: 759px;
   padding: 100px 100px 160px 100px;
   gap: 50px;
   opacity: 0px;
@@ -49,18 +51,39 @@ text-align: left;
  line-height: 20px;
  text-align: left;
 }
-.textarea-span {
-  color: #1414144D 0,6;
+.input-span {
+  font-weight: 700;
 }
 .howitworks-text-span {
-  background-color: #FBFBFB4D 0,3;
+  background-color: #FBFBFB4D;
 }
 .label {
+width: 401px;
+height: 52px;
+margin-top: 10px;
+}
+.block-input {
+  border-radius: 15px;
   width: 450px;
   height: 76px;
-  border-radius: 15px;
-  padding: 12px, 25px, 12px, 24px;
-  gap: 10px;
   background: #FBFBFB;
-  display: flex;
+  padding: 12px, 25px, 12px, 24px;
+  display: inline-flex;
+  margin-bottom: 20px;
+}
+.block-text {
+  font-family: "Inter Tight";
+font-size: 16px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: -0.02em;
+text-align: left;
+align-items: center;
+justify-content: center;
+}
+.icon {
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px solid #7A31454D;
+  margin: 10px;
 }
