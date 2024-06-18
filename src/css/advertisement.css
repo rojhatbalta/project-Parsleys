@@ -11,9 +11,12 @@
     opacity: 0px;
     background-color: #FBFBFB;
     flex-wrap: wrap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 .advertisement-span {
-    font-family: Inter Tight;
+    font-family: "Inter Tight";
   font-size: 76px;
   font-weight: 600;
   line-height: 80px;
@@ -32,6 +35,5 @@
   letter-spacing: -0.015em;
   text-align: left;
   background: #FBFBFB;
-  display: flex;
-  
+ 
   }

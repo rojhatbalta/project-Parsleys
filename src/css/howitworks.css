@@ -55,3 +55,12 @@ text-align: left;
 .howitworks-text-span {
   background-color: #FBFBFB4D 0,3;
 }
+.label {
+  width: 450px;
+  height: 76px;
+  border-radius: 15px;
+  padding: 12px, 25px, 12px, 24px;
+  gap: 10px;
+  background: #FBFBFB;
+  display: flex;
+}
